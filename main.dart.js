@@ -34907,7 +34907,7 @@ F.a0q.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_Y())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/La2.mp3"))
 r.D(new F.a_Z())
 P.av("cevap la olmal\u0131")}else{r.D(new F.a0_())
 $.aa=0
@@ -34951,7 +34951,7 @@ F.a0r.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_Q())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Mi2.mp3"))
 r.D(new F.a_R())
 P.av("cevap mi olmal\u0131")}else{r.D(new F.a_T())
 $.aa=0
@@ -34995,7 +34995,7 @@ F.a0s.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_J())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Re2.mp3"))
 r.D(new F.a_K())
 P.av("cevap re olmal\u0131")}else{r.D(new F.a_L())
 $.aa=0
@@ -35039,7 +35039,7 @@ F.a0t.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_B())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Si2.mp3"))
 r.D(new F.a_C())}else{r.D(new F.a_D())
 $.aa=0
 $.cK=4293963695
@@ -35082,7 +35082,7 @@ F.a0u.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_t())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Sol2.mp3"))
 r.D(new F.a_u())}else{r.D(new F.a_v())
 $.aa=0
 $.cK=4293963695
@@ -35125,7 +35125,7 @@ F.a0v.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_m())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Fa2.mp3"))
 r.D(new F.a_n())
 P.av("cevap fa olmal\u0131")}else{r.D(new F.a_o())
 $.aa=0
@@ -35169,7 +35169,7 @@ F.a0w.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_e())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Ince_Sol2.mp3"))
 r.D(new F.a_f())
 P.av("cevap ince sol olmal\u0131")}else{r.D(new F.a_g())
 $.aa=0
@@ -35214,7 +35214,7 @@ F.a0n.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a02())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Ince_La2.mp3"))
 r.D(new F.a0d())
 P.av("cevap \u0130nce La olmal\u0131")}else{r.D(new F.a0i())
 $.aa=0
@@ -35258,7 +35258,7 @@ F.a0o.prototype={
 $0:function(){var s,r=this.a
 r.D(new F.a_8())
 if(""+$.bC===""+$.bt){$.aa=$.aa+1
-if(r.f)r.d.dP(0,B.hv("assets/audios/Do2.mp3"))
+if(r.f)r.d.dP(0,B.hv("assets/audios/Ince_Si2.mp3"))
 r.D(new F.a_9())
 P.av("cevap \u0130nce Si olmal\u0131")}else{r.D(new F.a_a())
 $.aa=0
